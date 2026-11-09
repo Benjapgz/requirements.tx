@@ -1,5 +1,10 @@
 #Comandos python
 
 #Comandos de Git
-#revisar estado -> git status
+#revisar estado 
+git status
 git add
+#confirmar cambios
+git commit -m "backup"
+#Cargar cambios al repositorio 
+git push origin main
